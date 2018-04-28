@@ -1,0 +1,28 @@
+Blast Arena Advance by Mathew Carr (mattcarr@gmail.com)
+
+Blast Arena is an abstract/retro styled action game for the Game Boy Advance.
+
+The aim of Blast Arena Advance is to collect as many jittering squares as you can, while avoiding the shrapnel thrown out by the explosions.
+
+Controls:
+D-pad    - Controls the player.
+A button - Hold to move faster.
+B button - Hold to move slower.
+Start    - Pause/Unpause.
+
+There are two highscore tables: one for the most collected squares, and one for the longest survival time. Use L-R, Left-Right or Select to switch between them.
+
+While you're on the Name Entry screen:
+A button - Selects stuff.
+B button - Erase the last entered character.
+L and R  - Move the currently selected letter.
+Select   - Return your name to what it was when you entered the screen.
+Start    - Same as DONE, accepts changes.
+
+There's a handful of hidden things to unlock if you know where to look. ;P
+
+Blast Arena Advance requires 64k of save RAM for it's hiscores and settings! Don't forget to allocate when you're flashing your cart!
+
+Have fun!
+
+-matt
