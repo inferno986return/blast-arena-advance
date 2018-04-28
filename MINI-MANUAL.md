@@ -1,24 +1,30 @@
 # MINI-MANUAL
 
-## How to Play Blast Arena Advance
-
-
 Taken verbatim from https://www.mrdictionary.net/blastarenacart/howtoplay.htm
+
+<img width="300" height="450" src="https://github.com/inferno986return/blast-arena-advance/blob/master/mini-manualimages/banner.png" alt=""/>
+
+## How to Play Blast Arena Advance
 
 The object of Blast Arena Advance is to control the square within the Arena and collect as many yellow, jittering flanges as possible, while avoiding the shrapnel thrown out by the explosions.
 
+<img width="300" height="450" src="https://github.com/inferno986return/blast-arena-advance/blob/master/mini-manualimages/squareandflange.png" alt=""/>
+
 Groups of three orbs appear in the Arena, spinning towards a central point. When they meet, they explode, throwing out eight glowing shrapnels. Touching one of the shrapnels is an instant Game Over. Over time, these orbs appear faster and faster.
 
-There are two hiscore tables in Blast Arena Advance, Best Scores and Best Times. Try to collect as many flanges as possible, and survive for the longest time. 
+<img width="300" height="450" src="https://github.com/inferno986return/blast-arena-advance/blob/master/mini-manualimages/explosion.png" alt=""/>
+
+There are two hiscore tables in Blast Arena Advance, Best Scores and Best Times. Try to collect as many flanges as possible, and survive for the longest time.
 
 You can see how you've placed on the Game Over screen. Your score is saved when the Game Over screen appears.
 
 ## Ingame Controls
 
+<img width="300" height="450" src="https://github.com/inferno986return/blast-arena-advance/blob/master/mini-manualimages/ingamecon.png" alt=""/>
+
 You can alter the speed of the square by holding the A or B buttons. Although this may improve your accuracy for beginners, advanced players recommend using the default speed.
 
 When the game is over, use the B button to retry and Start to exit.
-
 
 ## Other Controls
 ### Main Menu
